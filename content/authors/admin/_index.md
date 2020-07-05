@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:stefanabikaram@gatech.edu".
+  link: 'mailto:stefanabikaram@gatech.edu'  # For a direct email link, use "mailto:stefanabikaram@gatech.edu".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 
-Stefan Abi-Karam is a 3rd-year undergraduate student of Electrical Engineering at the Georgia Institute of technology. His research interests include applied machine learning, Digitial design, and hardware acceleration.
+Hello! I am  a 3rd-year undergraduate student of Electrical Engineering at the Georgia Institute of technology. My research interests include applied machine learning, digitial design, and hardware acceleration.
