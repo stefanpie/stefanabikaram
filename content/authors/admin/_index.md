@@ -15,7 +15,7 @@ role: Undergraduate Electrical Engineering Student
 # Organizations/Affiliations
 organizations:
 - name: Georgia Institue of Technology
-  url: "https://www.ece.gatech.edu/"
+  url: "https://www.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,4 +64,4 @@ user_groups:
 ---
 
 
-Hello! I am  a 3rd-year undergraduate student of Electrical Engineering at the Georgia Institute of technology. My research interests include applied machine learning, digitial design, and hardware acceleration.
+Hello! I am a 3rd-year undergraduate student of Electrical Engineering at the Georgia Institute of technology. My research interests include applied machine learning, digitial design, and hardware acceleration.
